@@ -1,2 +1,2 @@
 # programming-languages
-Programming languages-projects in Prolog, 
+Programming languages-projects in Prolog, Scheme, Smalltalk, and C++
