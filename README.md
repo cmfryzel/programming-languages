@@ -1,2 +1,2 @@
 # programming-languages
-Programming languages projects in 
+Programming languages-projects in Prolog, 
